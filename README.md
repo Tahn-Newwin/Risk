@@ -94,4 +94,3 @@ This isn't just math — it's the model reflecting how **high-risk patterns** be
 - Automate report generation with LLM to explain each prediction.
 
 ---
-Let me know if you’d like this formatted for GitHub, as a PDF, or broken into a slide deck!
